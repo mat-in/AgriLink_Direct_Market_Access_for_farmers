@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AgriLink - Direct Market Access for farmers</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_farmer_dashboard">FarmerDashboardActivity</string>
+    <string name="title_activity_buyer_dashboard">BuyerDashboardActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+</resources>
